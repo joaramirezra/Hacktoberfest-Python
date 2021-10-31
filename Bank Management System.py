@@ -49,8 +49,9 @@ def intro():
     print("\t\t\t\t**********************")
     print("\t\t\t\tBANK MANAGEMENT SYSTEM")
     print("\t\t\t\t**********************")
+
     print("\t\t\t\tBrought To You By:")
-    print("\t\t\t\tMUSKAN MAHAJAN")
+    print("\t\t\t\tprojectworlds.in")
     input()
 
 
